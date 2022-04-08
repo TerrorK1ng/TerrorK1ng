@@ -2,7 +2,8 @@
 - 👀 Estou Estudando sobre Desenvolvimento Web por volta de 2 Mesês
 - 🌱 Atualmente estou aprendendo HTML, CSS E JS no Instituto Da Oportunidade Social
 - 💞️ Tenho muita vontade de aprender sobre Desenvolvimento web e crescer juntamente com uma Empresa
-- 📫 Linkedin ... Instagram ...
+- 👨‍💻 Já fiz alguns projetos e que estão disponiveis em meus repositórios :) 
+- 📫 Linkedin ... Instagram @DevClaudir_Santos011
 
 <!---
 TerrorK1ng/TerrorK1ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
