@@ -1,6 +1,6 @@
 ## Olá! Sou o Claudir
-- 📚 Estudo HTML e CSS a 2 Meses
-- 🔭 Pretendo trabalhar na área de Front-end
+- 📚 Estudante na área de T.I
+- 🔭 Cibersegurança, Front-end, Linux, mysql, suporte em T.I
 
 <div align="center">
   <a href="https://github.com/TerrorK1ng">
